@@ -1,0 +1,17 @@
+table {
+width:534px ;
+height: 478px;
+border : 1px solid black;
+}
+p {
+  text-align: justify;
+}
+ tfoot tr{
+  height: 25px;
+  background-color: #ffc107;
+  width: 537px;
+  position: absolute;
+  bottom: 0;
+
+
+ }
